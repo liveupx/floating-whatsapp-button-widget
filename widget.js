@@ -9,8 +9,8 @@ async function CreateWhatsappChatWidget(
       brandName: 'WATI',
       brandSubTitle: '',
       ctaText: 'Chat with us',
-      welcomeText: 'I have some questions about Wati, \ncan you help?',
-      messageText: 'Iâ€™ve some questions about Wati, can you help?',
+      welcomeText: 'I have some questions about Liveupx, \ncan you help?',
+      messageText: 'Iâ€™ve some questions about Liveupx, can you help?',
       phoneNumber: '85252859384',
     },
     chatButtonSetting: {
@@ -101,7 +101,7 @@ async function CreateWhatsappChatWidget(
                       <span class="wa-chat-box-content-send-btn-text">${option.brandSetting.ctaText
       }</span>
                   </a>
-                  <div class='wa-chat-box-poweredby'>âš¡ by <a href="https://wati.io/?utm_source=shopify&utm_medium=chat_widget&utm_campaign=shopify_widget" target="_blank" style="color: #006eff6e;">wati.io</a></div>
+                  <div class='wa-chat-box-poweredby'>âš¡ by <a href="https://liveupx.com" target="_blank" style="color: #006eff6e;">Liveupx</a></div>
               </div>
           </div>
           `
